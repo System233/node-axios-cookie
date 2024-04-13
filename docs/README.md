@@ -7,7 +7,7 @@ Axios-Cookie / [Exports](modules.md)
  https://opensource.org/licenses/MIT
 -->
 
-# Axios-Cookie 
+# Axios-Cookies 
 
 A Cookie support library for Axios, automatically manages cookies on request, just like `request.Session`.
 

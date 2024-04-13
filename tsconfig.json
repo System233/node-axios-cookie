@@ -12,7 +12,7 @@
     "skipLibCheck": true
   },
   "typedocOptions": {
-    "name":"Axios-Cookie",
+    "name":"Axios-Cookies",
     "entryPoints": ["lib/**/*.ts"],
     "out": "docs",
     "plugin": ["typedoc-plugin-markdown"]
